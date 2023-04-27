@@ -1,0 +1,94 @@
+[
+ {
+  "Key": "paymentIp",
+  "Value": "https://gservices.moi.gov.kw"
+ },
+ {
+  "Key": "initPaymentPort",
+  "Value": "45299"
+ },
+ {
+  "Key": "checkPaymentPort",
+  "Value": "45302"
+ },
+ {
+  "Key": "checkPaymentExtraPart",
+  "Value": "SahelPayViewProd"
+ },
+
+ {
+  "Key": "initpaymentUsername",
+  "Value": "MOISAHELPRODWSUser"
+ },
+ {
+  "Key": "initpaymentPassword",
+  "Value": "Xx8fnbp308hz3uWVPLc5bjwSRYM="
+ },
+ {
+  "Key": "initpaymentToken",
+  "Value": "UsernameToken-395764DD8FCFF4722F16544265442631"
+ },
+ {
+  "Key": "initpaymentNonce",
+  "Value": "jY2bKMCrlMBqAkd0MWqb9Q=="
+ },
+
+ {
+  "Key": "checkpaymentUsername",
+  "Value": "MOIPACIPRODWSUser"
+ },
+ {
+  "Key": "checkpaymentPassword",
+  "Value": "vK9tT6FIv7PrQxPUi5WJ2MdRFt0="
+ },
+ {
+  "Key": "checkpaymentToken",
+  "Value": "UsernameToken-395764DD8FCFF4722F16544269361012"
+ },
+ {
+  "Key": "checkpaymentNonce",
+  "Value": "XPSphmV5dv3BV727mx/L9Q=="
+ },
+ {
+  "Key": "initpaymentCreated",
+  "Value": "2022-06-05T10:55:44.261Z"
+ },
+ {
+  "Key": "checkpaymentCreated",
+  "Value": "2022-06-05T11:02:16.101Z"
+ },
+ {
+    "Key": "PayTrafficServiceID",
+    "Value": "129"
+},
+{
+   "Key": "ReportingLostServiceID",
+   "Value": "201"
+},
+{
+   "Key": "RestrictReportServiceID",
+   "Value": "215"
+},
+{
+   "Key": "DiyarServicesUrl",
+   "Value": "https://gservices.moi.gov.kw:45622/eDLPortalMobilityService.svc"
+},
+{
+   "Key": "PreviewDLUrl",
+   "Value": "https://eservices.moi.gov.kw:45315/DriveLicenseServices/downloadLicense"
+},
+{
+   "Key": "MedicalFormUrl",
+   "Value": "https://eservices.moi.gov.kw:45315/DriveLicenseServices/downloadPdf"
+},
+{
+   "Key": "TPFormUrl",
+   "Value": "https://eservices.moi.gov.kw:45315/DriveLicenseServices/downloadTPForm"
+}
+,
+{
+   "Key": "loginPassword",
+   "Value": "edl\\SAHMOBSVC:mosl@SUWES6@E@Dl"
+   
+}
+]
